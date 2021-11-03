@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes">
+        <item>Москва</item>
+        <item>Питер</item>
+        <item>Екатеринбург</item>
+        <item>Новосиб</item>
+        <item>Самара Городок</item>
+    </string-array>
+
+    <integer-array name="note">
+        <item>@drawable/mosk</item>
+        <item>@drawable/pit</item>
+        <item>@drawable/ekat</item>
+        <item>@drawable/sib</item>
+        <item>@drawable/sram</item>
+    </integer-array>
+
+
+</resources>
